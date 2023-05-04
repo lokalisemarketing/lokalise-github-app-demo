@@ -1,0 +1,12 @@
+{
+    "welcome_message": "Welcome!",
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out",
+    "register": "Register",
+    "profile": "Profile",
+    "settings": "Settings",
+    "search": "Search",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "help": "Help"
+}
